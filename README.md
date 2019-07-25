@@ -1,0 +1,1 @@
+add_pos_laundry
